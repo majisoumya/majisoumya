@@ -3,7 +3,7 @@
 # Hi 👋, I'm Soumyadip Maji
 
 <p align="center">
-  <img src="https://tenor.com/en-GB/view/ai-bot-chatgpt-artificial-chat-gpt-gif-282704938762721238">
+  <img src="https://tenor.com/en-GB/view/work-computer-gif-9810614">
 </p>
 
 🚀 Aspiring AI/ML Engineer  
