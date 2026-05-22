@@ -20,7 +20,7 @@ Driven by curiosity, consistency, and the goal of building impactful systems tha
 # 🤝 Connect With Me
 
 <p align="left">
-<a href="https://github.com/majisoumya>
+<a href="https://github.com/majisoumya">
 <img src="https://skillicons.dev/icons?i=github" height="42" style="margin:12 px"/>
 </a>
 
