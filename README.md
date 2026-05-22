@@ -1,109 +1,85 @@
 💫 About Me:
 
-````md
-<h1 align="center">Hi 👋, I'm Soumyadip Maji</h1>
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Deep Learning Enthusiast | Full Stack Developer</h3>
+````md id="gthb92"
+# Hi 👋, I'm Soumyadip Maji
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;Deep+Learning+Explorer;AI+System+Builder;MLOps+%7C+Computer+Vision+%7C+LLMs" />
-</p>
+### 🚀 Aspiring AI/ML Engineer | Deep Learning Enthusiast | Full Stack Developer
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&width=700&lines=Machine+Learning+Engineer;Deep+Learning+Explorer;AI+System+Builder;MLOps+%7C+Computer+Vision+%7C+LLMs)
 
 ---
-
-<img align="right" alt="Coding" width="420" src="https://media.tenor.com/2uyENRmiUt0AAAAC/work-computer.gif">
 
 ## 🧠 About Me
 
-🚀 Passionate about building scalable and intelligent AI systems  
-💡 Interested in Machine Learning, Deep Learning, Computer Vision & MLOps  
-🌱 Currently learning LLMs, Generative AI, and Cloud Deployment  
-🔭 Working on real-world AI-based projects and research systems  
-⚡ Love solving practical problems using data-driven solutions  
+![AI Coding GIF](https://media.tenor.com/2uyENRmiUt0AAAAC/work-computer.gif)
+
+- 🚀 Passionate about building scalable and intelligent AI systems
+- 💡 Interested in Machine Learning, Deep Learning, Computer Vision & MLOps
+- 🌱 Currently learning LLMs, Generative AI, and Cloud Deployment
+- 🔭 Working on real-world AI-based projects and research systems
+- ⚡ Love solving practical problems using data-driven solutions
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js" />
-</p>
+## 👨‍💻 Languages
+![My Skills](https://skillicons.dev/icons?i=python,java,c,js)
 
-### 🤖 AI / ML
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
-</p>
+## 🤖 AI / ML
+![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv)
 
-### 🌐 Web Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi,flask" />
-</p>
+## 🌐 Web Development
+![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,fastapi,flask)
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,sqlite" />
-</p>
+## 🗄️ Databases
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,sqlite)
 
-### ☁️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,render,figma" />
-</p>
+## ☁️ Tools & Platforms
+![My Skills](https://skillicons.dev/icons?i=docker,git,github,vercel,render,figma)
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧠 Brain-Controlled Smart System
+## 🧠 Brain-Controlled Smart System
 AI + EEG based smart control system for physically challenged people.
 
-### 🌾 AI Crop Disease Detection Drone
+## 🌾 AI Crop Disease Detection Drone
 Deep learning powered precision agriculture monitoring system.
 
-### 🌐 Universal Language Barrier Breaker
+## 🌐 Universal Language Barrier Breaker
 Real-time multilingual communication system using AI + AR glasses.
 
-### 📄 LLM Document Processing System
+## 📄 LLM Document Processing System
 Intelligent query-retrieval system using LangChain, LLMs & Vector DB.
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=majisoumya&show_icons=true&theme=tokyonight" />
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=majisoumya&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=majisoumya&show_icons=true&theme=tokyonight)
 
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majisoumya&layout=compact&theme=tokyonight" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=majisoumya&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=majisoumya&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/soumyadip-maji-8b97672a7" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-
-<a href="mailto:soumyadipmaji643@gmail.com">
-<img align="center" src="https://skillicons.dev/icons?i=gmail" height="40" />
-</a>
-</p>
+- LinkedIn: www.linkedin.com/in/soumyadip-maji-8b97672a7
+- Email: soumyadipmaji643@gmail.com
 
 ---
 
-## 🐍 Contribution Snake
+# 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
 ```python
 while(alive):
@@ -115,9 +91,10 @@ while(alive):
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=majisoumya&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=majisoumya\&label=Profile%20Views\&color=0e75b6\&style=flat)
 
-<h3 align="center">🔥 Building AI Systems That Create Real-World Impact 🔥</h3>
+# 🔥 Building AI Systems That Create Real-World Impact 🔥
+
 ```
+```
+
