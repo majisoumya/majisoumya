@@ -12,6 +12,7 @@ Currently exploring MLOps practices, containerization, and CI/CD to build reliab
 Also interested in integrating emerging technologies like Blockchain and IoT with AI to create secure and intelligent solutions.
 
 Driven by curiosity, consistency, and the goal of building impactful systems that scale in real-world environments.
+
 <img align="right" alt="Coding" width="350" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRlaGc1a3VybmduODA3dGtsem8ybzVwYXlvMjZqeHZuOGh6c2hmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.gif">
 
 ---
@@ -19,19 +20,19 @@ Driven by curiosity, consistency, and the goal of building impactful systems tha
 # 🤝 Connect With Me
 
 <p align="left">
-<a href="https://github.com/Sayan-Official-32">
+<a href="https://github.com/majisoumya>
 <img src="https://skillicons.dev/icons?i=github" height="42" style="margin:12 px"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sayan-paul-562497284">
+<a href="www.linkedin.com/in/soumyadip-maji-8b97672a7">
 <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="margin:12 px"/>
 </a>
 
-<a href="paulsayan0685@gmail.com">
+<a href="soumyadipmaji643@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" height="42" style="margin:12 px"/>
 </a>
 
-<a href="https://x.com/SayanPaul0685?t=LPOxhZutENzT6kjNMlo4Xg&s=08">
+<a href="https://x.com/Soumyad95528237">
 <img src="https://cdn.simpleicons.org/x/white" height="42" style="margin:12 px"/>
 </a>
 
@@ -43,7 +44,7 @@ Driven by curiosity, consistency, and the goal of building impactful systems tha
 <img src="https://cdn.simpleicons.org/instagram/E4405F" height="42" style="margin:12 px"/>
 </a>
 
-<a href="https://sayanpaul-portfolio.vercel.app/">
+<a href="https://soumya-portfolio.vercel.app/">
 <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="42" style="margin:12 px"/>
 </a>
 </p>
