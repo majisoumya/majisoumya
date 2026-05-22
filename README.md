@@ -24,7 +24,7 @@ Driven by curiosity, consistency, and the goal of building impactful systems tha
 <img src="https://skillicons.dev/icons?i=github" height="42" style="margin:12 px"/>
 </a>
 
-<a href="www.linkedin.com/in/soumyadip-maji-8b97672a7">
+<a href="https://www.linkedin.com/in/soumyadip-maji-8b97672a7/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="margin:12 px"/>
 </a>
 
