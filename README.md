@@ -1,5 +1,21 @@
 💫 About Me:
+# Hi 👋, I'm Soumyadip Maji
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast">
+</p>
+🚀 Aspiring AI/ML Engineer  
+🧠 Deep Learning | MLOps | Computer Vision  
+⚡ Building Real-World AI Systems  
+🌱 Currently learning LLMs & Generative AI  
 
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRlaGc1a3VybmduODA3dGtsem8ybzVwYXlvMjZqeHZuOGh6c2hmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.gif">
+
+---
+
+### 🔥 Tech Stack
+Python • TensorFlow • PyTorch • FastAPI • React • MongoDB • Docker
+
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast">
 </p>
