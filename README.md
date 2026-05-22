@@ -12,7 +12,7 @@ Currently exploring MLOps practices, containerization, and CI/CD to build reliab
 Also interested in integrating emerging technologies like Blockchain and IoT with AI to create secure and intelligent solutions.
 
 Driven by curiosity, consistency, and the goal of building impactful systems that scale in real-world environments.
-<img align="right" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRlaGc1a3VybmduODA3dGtsem8ybzVwYXlvMjZqeHZuOGh6c2hmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRlaGc1a3VybmduODA3dGtsem8ybzVwYXlvMjZqeHZuOGh6c2hmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.gif">
 
 ---
 
@@ -64,7 +64,7 @@ Driven by curiosity, consistency, and the goal of building impactful systems tha
 <p> <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,supabase,sqlite" /> </p>
 
 ### ☁️ Tools & Platforms 
-<p> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,render,figma" /> </p> 
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,figma" /> </p> 
 
 --- 
 
