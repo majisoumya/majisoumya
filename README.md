@@ -28,7 +28,8 @@ Driven by curiosity, consistency, and the goal of building impactful systems tha
 <img src="https://skillicons.dev/icons?i=linkedin" height="42" style="margin:12 px"/>
 </a>
 
-<a href="soumyadipmaji643@gmail.com">
+
+<a href="mailto:soumyadipmaji643@gmail.com">
 <img src="https://cdn.simpleicons.org/gmail/EA4335" height="42" style="margin:12 px"/>
 </a>
 
