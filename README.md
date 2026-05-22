@@ -3,20 +3,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+Engineer;Machine+Learning+Developer;Deep+Learning+Enthusiast">
 </p>
-🚀 Aspiring AI/ML Engineer  
-🧠 Deep Learning | MLOps | Computer Vision  
-⚡ Building Real-World AI Systems  
-🌱 Currently learning LLMs & Generative AI  
+🚀 Aspiring Machine Learning Engineer focused on building scalable, production-ready AI systems.
+Skilled in Python, Deep Learning, and backend development, with growing expertise in MLOps and system design.
+Passionate about solving real-world problems through data-driven solutions and continuously learning cutting-edge technologies.
 
+I enjoy designing end-to-end ML pipelines—from data collection and preprocessing to model training, evaluation, and deployment.
+Currently exploring MLOps practices, containerization, and CI/CD to build reliable and reproducible ML systems.
+Also interested in integrating emerging technologies like Blockchain and IoT with AI to create secure and intelligent solutions.
+
+Driven by curiosity, consistency, and the goal of building impactful systems that scale in real-world environments.
 <img align="center" alt="Coding" width="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRlaGc1a3VybmduODA3dGtsem8ybzVwYXlvMjZqeHZuOGh6c2hmaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ThrM4jEi2lBxd7X2yz/giphy.gif">
 
 ---
-
-### 🔥 Tech Stack
-Python • TensorFlow • PyTorch • FastAPI • React • MongoDB • Docker
-
-### 📊 GitHub Stats
-
 
 # 🤝 Connect With Me
 
